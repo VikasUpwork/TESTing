@@ -5,7 +5,7 @@
   <div id="col-3" class="col"></div>
   <div id="col-4" class="col"></div>
 </div>
-
+df gfdg
 <!--PLACE HERE YOUR IMAGES-->
 <div id="img-list">
   <img alt="img" src="https://cdn.stocksnap.io/img-thumbs/960w/MDSGEW7TLL.jpg">
